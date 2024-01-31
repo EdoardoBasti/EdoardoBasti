@@ -1,9 +1,14 @@
 # Edoardo Bastianello
 **`Junior Computer Engineer`**
+<br/><br/>
+
+In this portfolio you can find some of the projects I've completed during my univerity studies.
+<br/><br/>
 
 :mortar_board: Education:
 - **Bachelor's degree** in **Computer Engineering** at University of Padua, Italy
 - **Master's degree** in **Computer Engineering: Artificial Intelligence and Robotics** at Univerity of Padua, Italy
+<br/><br/>
 
 :computer: Programming Languages:
 - C++
@@ -12,6 +17,8 @@
 - Python
 - MATLAB
 - Basic knowledge of C.
+<br/><br/>
+
 
 :bulb: Software and Tools:
 - Basic skills in Blender, Maya, Unity, Unreal Engine.
