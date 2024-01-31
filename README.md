@@ -2,7 +2,7 @@
 **`Junior Computer Engineer`**
 <br/><br/>
 
-In this portfolio you can find some of the projects I've completed during my univerity studies:
+In this portfolio you can find some of the projects I've completed during my university studies:
 - ComputerVision_HandDetectionAndSegmentation
 - 3D_data_processing
 - IntelligentRobotics
