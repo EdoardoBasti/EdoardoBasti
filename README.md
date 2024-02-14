@@ -1,5 +1,5 @@
 # Edoardo Bastianello
-**`Junior Computer Engineer`**
+**`Graduate in Computer Engineering`**
 <br/><br/>
 
 In this portfolio you can find some of the projects I've completed during my university studies:
@@ -19,14 +19,15 @@ In this portfolio you can find some of the projects I've completed during my uni
 - Kotlin
 - Python
 - MATLAB
-- Basic knowledge of C.
+- Basic knowledge of C#
+- Basic knowledge of C
 <br/><br/>
 
 
 :bulb: Software and Tools:
-- Basic skills in Blender, Maya, Unity, Unreal Engine.
-- Experience with OpenCV and ROS.
+- Experience with OpenCV, ROS, Spark.
 - Familiarity with Visual Studio, GitHub, Android Studio, Pure Data, Google Colab.
+- Basic skills in Blender, Maya, Unity, Unreal Engine.
 <!--
 **EdoardoBasti/EdoardoBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
