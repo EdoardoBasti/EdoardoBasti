@@ -1,5 +1,5 @@
 # Edoardo Bastianello
-**`Graduate in Computer Engineering`**
+**`Master's Graduate in Computer Engineering`**
 <br/><br/>
 
 In this portfolio you can find some of the projects I've completed during my university studies:
