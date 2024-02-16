@@ -10,7 +10,7 @@ In this portfolio you can find some of the projects I've completed during my uni
 
 :mortar_board: Education:
 - **Bachelor's degree** in **Computer Engineering** at University of Padua, Italy
-- **Master's degree** in **Computer Engineering: Artificial Intelligence and Robotics** at Univerity of Padua, Italy
+- **Master's degree** in **Computer Engineering: Artificial Intelligence and Robotics** at University of Padua, Italy
 <br/><br/>
 
 :computer: Programming Languages:
