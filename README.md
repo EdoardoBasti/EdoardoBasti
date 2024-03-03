@@ -27,7 +27,7 @@ In this portfolio you can find some of the projects I've completed during my uni
 :bulb: Software and Tools:
 - Experience with OpenCV, ROS, Spark.
 - Familiarity with Visual Studio, GitHub, Android Studio, Pure Data, Google Colab.
-- Basic skills in Blender, Maya, Unity, Unreal Engine.
+- Basic skills in Blender, Unity.
 <!--
 **EdoardoBasti/EdoardoBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
