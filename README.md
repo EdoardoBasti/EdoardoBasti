@@ -2,10 +2,11 @@
 **`Master's Graduate in Computer Engineering`**
 <br/><br/>
 
+:wave:
 In this portfolio you can find some of the projects I've completed during my university studies:
-- ComputerVision_HandDetectionAndSegmentation
-- IntelligentRobotics
-- 3D_data_processing
+- [![](https://img.shields.io/badge/Computer%20Vision-red)](https://github.com/EdoardoBasti/ComputerVision_HandDetectionAndSegmentation)
+- [![](https://img.shields.io/badge/Intelligent%20Robotics-green)](https://github.com/EdoardoBasti/IntelligentRobotics)
+- [![](https://img.shields.io/badge/3D%20Data%20Processing-blue)](https://github.com/EdoardoBasti/3D_data_processing)
 <br/><br/>
 
 :mortar_board: Education:
@@ -14,20 +15,14 @@ In this portfolio you can find some of the projects I've completed during my uni
 <br/><br/>
 
 :computer: Programming Languages:
-- C++
-- Java
-- Kotlin
-- Python
-- MATLAB
-- Basic knowledge of C#
-- Basic knowledge of C
+- C++, Java, Kotlin, Python, MATLAB, C#, C
 <br/><br/>
 
 
 :bulb: Software and Tools:
-- Experience with OpenCV, ROS, Spark.
-- Familiarity with Visual Studio, GitHub, Android Studio, Pure Data, Google Colab.
-- Basic skills in Blender, Unity.
+- OpenCV, ROS, Spark, JUnit, Google Tests
+- Visual Studio, CLion, Git, Android Studio, Pure Data, Google Colab
+- Blender, Unity
 <!--
 **EdoardoBasti/EdoardoBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
