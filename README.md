@@ -1,5 +1,5 @@
 # Edoardo Bastianello
-**`Master's Graduate in Computer Engineering`**
+**`Software Engineer`**
 <br/><br/>
 
 :wave:
