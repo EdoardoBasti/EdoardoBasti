@@ -15,14 +15,14 @@ In this portfolio you can find some of the projects I've completed during my uni
 <br/><br/>
 
 :computer: Programming Languages:
-- C++, Java, Kotlin, Python, MATLAB, C#, C
+- C++, Rust, Java, Kotlin, Python, MATLAB, C#, C
 <br/><br/>
 
 
 :bulb: Software and Tools:
 - OpenCV, ROS, Spark, JUnit, Google Tests
 - Visual Studio, CLion, Git, Android Studio, Pure Data, Google Colab
-- Blender, Unity
+- Godot, Unity
 <!--
 **EdoardoBasti/EdoardoBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
